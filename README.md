@@ -2,6 +2,8 @@
 
 A classic Pong game implementation using Python's `turtle` module. Challenge a friend in this local multiplayer game!
 
+![Pong Gameplay](Pong.gif)
+
 ## Features
 
 -   **Classic Gameplay**: Two-player paddle and ball mechanics.
